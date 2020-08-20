@@ -10,6 +10,22 @@
     <id>https://falaffe.github.io/vpmnbtq</id>
 
     <entry>
+        <title>planet</title>
+        <author>
+            <name>René Balli</name>
+        </author>
+        <link href="https://falaffe.github.io/vpmnbtq/planet.html"/>
+        <id>https://falaffe.github.io/vpmnbtq/planet.html</id>
+
+        <updated>2020-08-20T12:39:27+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://falaffe.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-xs.png 384w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-sm.png 600w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-md.png 768w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-lg.png 1200w"  alt="" width="1871" height="1871"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>TEST</title>
         <author>
             <name>René Balli</name>
@@ -17,19 +33,8 @@
         <link href="https://falaffe.github.io/vpmnbtq/test.html"/>
         <id>https://falaffe.github.io/vpmnbtq/test.html</id>
 
-        <updated>2020-08-20T12:35:20+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Caption 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--wide" ><img loading="lazy" src="https://falaffe.github.io/vpmnbtq/media/posts/1/mario-parente-YnHOIroyUYo-unsplash.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-xs.jpg 384w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-sm.jpg 600w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-md.jpg 768w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-lg.jpg 1200w"  alt="test" width="3264" height="1836">
-<figcaption >Caption</figcaption>
-</figure>
-<p> </p>
-            ]]>
-        </content>
+        <updated>2020-08-20T12:39:27+02:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
