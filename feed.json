@@ -13,13 +13,15 @@
             "id": "https://falaffe.github.io/vpmnbtq/test.html",
             "url": "https://falaffe.github.io/vpmnbtq/test.html",
             "title": "TEST",
+            "summary": "Caption ",
+            "content_html": "<figure class=\"post__image post__image--wide\" ><img loading=\"lazy\" src=\"https://falaffe.github.io/vpmnbtq/media/posts/1/mario-parente-YnHOIroyUYo-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-xs.jpg 384w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-sm.jpg 600w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-md.jpg 768w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-lg.jpg 1200w\"  alt=\"test\" width=\"3264\" height=\"1836\">\n<figcaption >Caption</figcaption>\n</figure>\n<p> </p>",
             "author": {
                 "name": "René Balli"
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T12:26:55+02:00",
-            "date_modified": "2020-08-20T12:26:55+02:00"
+            "date_published": "2020-08-20T12:35:20+02:00",
+            "date_modified": "2020-08-20T12:35:20+02:00"
         }
     ]
 }

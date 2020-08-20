@@ -17,8 +17,19 @@
         <link href="https://falaffe.github.io/vpmnbtq/test.html"/>
         <id>https://falaffe.github.io/vpmnbtq/test.html</id>
 
-        <updated>2020-08-20T12:26:55+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2020-08-20T12:35:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Caption 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--wide" ><img loading="lazy" src="https://falaffe.github.io/vpmnbtq/media/posts/1/mario-parente-YnHOIroyUYo-unsplash.jpg" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-xs.jpg 384w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-sm.jpg 600w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-md.jpg 768w ,https://falaffe.github.io/vpmnbtq/media/posts/1/responsive/mario-parente-YnHOIroyUYo-unsplash-lg.jpg 1200w"  alt="test" width="3264" height="1836">
+<figcaption >Caption</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>
