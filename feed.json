@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vapman Boutique",
+    "description": "",
+    "home_page_url": "https://falaffe.github.io/vpmnbtq",
+    "feed_url": "https://falaffe.github.io/vpmnbtq/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "René Balli"
+    },
+    "items": [
+        {
+            "id": "https://falaffe.github.io/vpmnbtq/test.html",
+            "url": "https://falaffe.github.io/vpmnbtq/test.html",
+            "title": "TEST",
+            "author": {
+                "name": "René Balli"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-20T12:26:55+02:00",
+            "date_modified": "2020-08-20T12:26:55+02:00"
+        }
+    ]
+}
