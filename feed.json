@@ -2,38 +2,38 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Vapman Boutique",
     "description": "",
-    "home_page_url": "https://falaffe.github.io/vpmnbtq",
-    "feed_url": "https://falaffe.github.io/vpmnbtq/feed.json",
+    "home_page_url": "https://vapman.github.io/vpmnbtq",
+    "feed_url": "https://vapman.github.io/vpmnbtq/feed.json",
     "user_comment": "",
     "author": {
         "name": "René Balli"
     },
     "items": [
         {
-            "id": "https://falaffe.github.io/vpmnbtq/planet.html",
-            "url": "https://falaffe.github.io/vpmnbtq/planet.html",
+            "id": "https://vapman.github.io/vpmnbtq/planet.html",
+            "url": "https://vapman.github.io/vpmnbtq/planet.html",
             "title": "planet",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://falaffe.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-xs.png 384w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-sm.png 600w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-md.png 768w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-lg.png 1200w\"  alt=\"\" width=\"1871\" height=\"1871\"></figure>",
-            "image": "https://falaffe.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-2.png",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vapman.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914.png\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-xs.png 384w ,https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-sm.png 600w ,https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-md.png 768w ,https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-lg.png 1200w\"  alt=\"\" width=\"1871\" height=\"1871\"></figure>",
+            "image": "https://vapman.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-2.png",
             "author": {
                 "name": "René Balli"
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T12:47:21+02:00",
-            "date_modified": "2020-08-20T12:47:21+02:00"
+            "date_published": "2020-08-20T13:50:37+02:00",
+            "date_modified": "2020-08-20T13:50:37+02:00"
         },
         {
-            "id": "https://falaffe.github.io/vpmnbtq/test.html",
-            "url": "https://falaffe.github.io/vpmnbtq/test.html",
+            "id": "https://vapman.github.io/vpmnbtq/test.html",
+            "url": "https://vapman.github.io/vpmnbtq/test.html",
             "title": "TEST",
             "author": {
                 "name": "René Balli"
             },
             "tags": [
             ],
-            "date_published": "2020-08-20T12:47:21+02:00",
-            "date_modified": "2020-08-20T12:47:21+02:00"
+            "date_published": "2020-08-20T13:50:37+02:00",
+            "date_modified": "2020-08-20T13:50:37+02:00"
         }
     ]
 }

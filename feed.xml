@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Vapman Boutique</title>
-    <link href="https://falaffe.github.io/vpmnbtq/feed.xml" rel="self" />
-    <link href="https://falaffe.github.io/vpmnbtq" />
+    <link href="https://vapman.github.io/vpmnbtq/feed.xml" rel="self" />
+    <link href="https://vapman.github.io/vpmnbtq" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>René Balli</name>
     </author>
-    <id>https://falaffe.github.io/vpmnbtq</id>
+    <id>https://vapman.github.io/vpmnbtq</id>
 
     <entry>
         <title>planet</title>
         <author>
             <name>René Balli</name>
         </author>
-        <link href="https://falaffe.github.io/vpmnbtq/planet.html"/>
-        <id>https://falaffe.github.io/vpmnbtq/planet.html</id>
+        <link href="https://vapman.github.io/vpmnbtq/planet.html"/>
+        <id>https://vapman.github.io/vpmnbtq/planet.html</id>
 
-        <updated>2020-08-20T12:47:21+02:00</updated>
+        <updated>2020-08-20T13:50:37+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://falaffe.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-2.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://falaffe.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-xs.png 384w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-sm.png 600w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-md.png 768w ,https://falaffe.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-lg.png 1200w"  alt="" width="1871" height="1871"></figure>
+                    <img src="https://vapman.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-2.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://vapman.github.io/vpmnbtq/media/posts/2/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914.png" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-xs.png 384w ,https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-sm.png 600w ,https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-md.png 768w ,https://vapman.github.io/vpmnbtq/media/posts/2/responsive/kisspng-abstract-art-painting-work-of-art-seascape-watercolor-butterfly-5ac947a95f8e87.0848242815231405213914-lg.png 1200w"  alt="" width="1871" height="1871"></figure>
             ]]>
         </content>
     </entry>
@@ -31,10 +31,10 @@
         <author>
             <name>René Balli</name>
         </author>
-        <link href="https://falaffe.github.io/vpmnbtq/test.html"/>
-        <id>https://falaffe.github.io/vpmnbtq/test.html</id>
+        <link href="https://vapman.github.io/vpmnbtq/test.html"/>
+        <id>https://vapman.github.io/vpmnbtq/test.html</id>
 
-        <updated>2020-08-20T12:47:21+02:00</updated>
+        <updated>2020-08-20T13:50:37+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
