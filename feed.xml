@@ -3,21 +3,21 @@
     <title>Vapman Boutique</title>
     <link href="https://vapman.github.io/vpmnbtq/feed.xml" rel="self" />
     <link href="https://vapman.github.io/vpmnbtq" />
-    <updated>2021-02-08T14:26:28+01:00</updated>
+    <updated>2021-02-08T14:37:40+01:00</updated>
     <author>
         <name>Vapman</name>
     </author>
     <id>https://vapman.github.io/vpmnbtq</id>
 
     <entry>
-        <title>Test</title>
+        <title>Olive</title>
         <author>
             <name>Vapman</name>
         </author>
         <link href="https://vapman.github.io/vpmnbtq/test.html"/>
         <id>https://vapman.github.io/vpmnbtq/test.html</id>
 
-        <updated>2021-02-08T14:26:28+01:00</updated>
+        <updated>2021-02-08T14:37:40+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
