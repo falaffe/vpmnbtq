@@ -3,7 +3,7 @@
     <title>Vapman Boutique</title>
     <link href="https://vapman.github.io/vpmnbtq/feed.xml" rel="self" />
     <link href="https://vapman.github.io/vpmnbtq" />
-    <updated>2021-02-08T14:49:39+01:00</updated>
+    <updated>2021-02-08T15:30:04+01:00</updated>
     <author>
         <name>Vapman</name>
     </author>
@@ -17,8 +17,13 @@
         <link href="https://vapman.github.io/vpmnbtq/test.html"/>
         <id>https://vapman.github.io/vpmnbtq/test.html</id>
 
-        <updated>2021-02-08T14:49:39+01:00</updated>
+        <updated>2021-02-08T15:30:04+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://vapman.github.io/vpmnbtq/media/posts/1/olive1.JPG" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://vapman.github.io/vpmnbtq/media/posts/1/olive2.JPG" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-xs.JPG 384w ,https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-sm.JPG 600w ,https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-md.JPG 768w ,https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-lg.JPG 1200w"  alt="CHF 300.-" width="1024" height="768"></figure>
+            ]]>
+        </content>
     </entry>
 </feed>

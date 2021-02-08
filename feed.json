@@ -14,6 +14,7 @@
             "id": "https://vapman.github.io/vpmnbtq/test.html",
             "url": "https://vapman.github.io/vpmnbtq/test.html",
             "title": "Olive",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://vapman.github.io/vpmnbtq/media/posts/1/olive2.JPG\" sizes=\"(max-width: 48em) 100vw, 100vw\" srcset=\"https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-xs.JPG 384w ,https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-sm.JPG 600w ,https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-md.JPG 768w ,https://vapman.github.io/vpmnbtq/media/posts/1/responsive/olive2-lg.JPG 1200w\"  alt=\"CHF 300.-\" width=\"1024\" height=\"768\"></figure>",
             "image": "https://vapman.github.io/vpmnbtq/media/posts/1/olive1.JPG",
             "author": {
                 "name": "Vapman"
@@ -21,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2021-02-08T14:26:28+01:00",
-            "date_modified": "2021-02-08T14:49:39+01:00"
+            "date_modified": "2021-02-08T15:30:04+01:00"
         }
     ]
 }
