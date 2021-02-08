@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://vapman.github.io/vpmnbtq/sitemap.xml
